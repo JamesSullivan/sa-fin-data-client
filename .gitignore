@@ -21,5 +21,3 @@ dmypy.json
 
 /coverage.xml
 /.coverage
-
-.ruff_cache/
